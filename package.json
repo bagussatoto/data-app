@@ -20,7 +20,7 @@
         "alpinejs": "^3.4.2",
         "autoprefixer": "^10.1.0",
         "axios": "^0.21",
-        "husky": "^7.0.4",
+        "husky": "^9.0.0",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
         "postcss": "^8.2.1",
